@@ -18,10 +18,14 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Ann Li</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              sMy name is Ann Li and I am a rising third-year 
+              at the University of Virginia. I am a double major 
+              in computer science and cognitive science. In college,
+              I have gotten more involved in theoretical computer
+                science. A fun fact about me is that I joined the UVA ballroom
+                dance club without any ballroom experience.
             </div>
           </div>
         </div>
